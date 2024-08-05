@@ -1,0 +1,3 @@
+C:/С++/Battle/BattleCity/build/CMakeFiles/BattleCity.dir
+C:/С++/Battle/BattleCity/build/CMakeFiles/ALL_BUILD.dir
+C:/С++/Battle/BattleCity/build/CMakeFiles/ZERO_CHECK.dir
