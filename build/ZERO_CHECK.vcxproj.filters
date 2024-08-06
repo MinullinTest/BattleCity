@@ -6,6 +6,9 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <None Include="C:\С++\Battle\BattleCity\external\glad\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glad</Filter>
+    </None>
     <None Include="C:\С++\Battle\BattleCity\external\glfw\CMake\cmake_uninstall.cmake.in">
       <Filter>Buildsystem Input Files\external\glfw\CMake</Filter>
     </None>
@@ -31,6 +34,9 @@
     </Filter>
     <Filter Include="Header Files">
       <UniqueIdentifier>{55E77FC1-72DE-3DEB-AE67-EADDD65339B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glad">
+      <UniqueIdentifier>{E5216FF6-41D6-39F5-AE08-D284ABD08CE6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Buildsystem Input Files\external\glfw">
       <UniqueIdentifier>{DA036B29-5AE0-3826-81DA-84537651427B}</UniqueIdentifier>

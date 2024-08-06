@@ -9,3 +9,6 @@ C:/С++/Battle/BattleCity/build/external/glfw/src/CMakeFiles/glfw.dir
 C:/С++/Battle/BattleCity/build/external/glfw/src/CMakeFiles/update_mappings.dir
 C:/С++/Battle/BattleCity/build/external/glfw/src/CMakeFiles/INSTALL.dir
 C:/С++/Battle/BattleCity/build/external/glfw/docs/CMakeFiles/INSTALL.dir
+C:/С++/Battle/BattleCity/build/external/glad/CMakeFiles/glad.dir
+C:/С++/Battle/BattleCity/build/external/glad/CMakeFiles/INSTALL.dir
+C:/С++/Battle/BattleCity/build/external/glad/CMakeFiles/ALL_BUILD.dir
