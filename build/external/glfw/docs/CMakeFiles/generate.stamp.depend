@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/FindDoxygen.cmake
+C:/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/С++/Battle/BattleCity/external/glfw/docs/CMakeLists.txt

@@ -6,8 +6,43 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <None Include="C:\С++\Battle\BattleCity\external\glfw\CMake\cmake_uninstall.cmake.in">
+      <Filter>Buildsystem Input Files\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\С++\Battle\BattleCity\external\glfw\CMake\glfw3.pc.in">
+      <Filter>Buildsystem Input Files\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\С++\Battle\BattleCity\external\glfw\CMake\glfw3Config.cmake.in">
+      <Filter>Buildsystem Input Files\external\glfw\CMake</Filter>
+    </None>
+    <None Include="C:\С++\Battle\BattleCity\external\glfw\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glfw</Filter>
+    </None>
+    <None Include="C:\С++\Battle\BattleCity\external\glfw\docs\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glfw\docs</Filter>
+    </None>
+    <None Include="C:\С++\Battle\BattleCity\external\glfw\src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\external\glfw\src</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <Filter Include="CMake Rules">
       <UniqueIdentifier>{562091EC-1B51-3558-A392-689135C04DCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{55E77FC1-72DE-3DEB-AE67-EADDD65339B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw">
+      <UniqueIdentifier>{DA036B29-5AE0-3826-81DA-84537651427B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw\CMake">
+      <UniqueIdentifier>{0FB146B0-DB85-37A9-8307-8CFA4D83B5F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw\docs">
+      <UniqueIdentifier>{E3E675F2-AB64-3324-85AF-810792E01823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\external\glfw\src">
+      <UniqueIdentifier>{000DD1ED-6F7D-3FB1-9019-1CE570E049EF}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

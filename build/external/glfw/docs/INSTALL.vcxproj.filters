@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\С++\Battle\BattleCity\build\CMakeFiles\83de1cda62e0e671ef877cb6282968b8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{562091EC-1B51-3558-A392-689135C04DCC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
